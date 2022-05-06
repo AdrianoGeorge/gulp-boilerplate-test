@@ -1,0 +1,19 @@
+{
+  "name": "test6-2",
+  "version": "2.1.1",
+  "description": "What i will settup",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianoGeorge/gulp-boilerplate-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianoGeorge/gulp-boilerplate-test/issues"
+  },
+  "homepage": "https://github.com/AdrianoGeorge/gulp-boilerplate-test#readme"
+}
