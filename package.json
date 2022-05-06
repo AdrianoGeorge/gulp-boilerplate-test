@@ -1,11 +1,8 @@
 {
-  "name": "test6-2",
-  "version": "2.1.1",
+  "name": "test-v3",
+  "version": "3.3.1",
   "description": "What i will settup",
   "main": "gulpfile.js",
-  "bin": {
-    "test6-2": "bin/test6-2"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
